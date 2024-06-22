@@ -5,3 +5,4 @@ git branch branch_name - создание новой ветки
 ## Marging branches
 git merge - слияние веток
 ## Conflicts
+Конфликты возникают, когда затронуто общее рабочее пространство
